@@ -1,0 +1,75 @@
+for (row of arrayOfIdk) {
+    do {
+        if (row === "me") {
+            row.push(212); // This line throws an error, as row is a string, not an array
+        }
+    } while (!row === "me");
+}// Online Javascript Editor for free
+// Write, Edit and Run your Javascript code using JS Online Compiler
+
+console.log("Try programiz.pro");
+
+const character = '3';
+const count = 8;
+const rows = [];
+ function padRow(padcount  )
+ {
+     return
+ }
+ const cock = "s";
+ const repeatedStr = cock.repeat(3);
+ console.log(repeatedStr);
+ let bomb = "0";
+ var repeatedSt1r = bomb.repeat(3);
+ console.log(repeatedSt1r);
+ 
+ let   not = "grow";
+  not = "big";
+  console.log(not);
+  var sdsd = "cart" ;
+  var ff = false ;
+  if (sdsd === "mom")
+  {
+      console.log(ff);
+  }
+     else if  (sdsd==="cart"){     console.log("go boom again");    } 
+  else{console.log("booom");}
+ const rows1 =  ["me",2122];
+  
+  rows1.push(212);//so push like appends in the last fucking part.
+  console.log(rows1);
+  var arraz  =  [3,32,'so gya ', true ,false  ];
+  const avenger =  arraz.pop();
+  console.log(arraz + 'arraz');
+  console.log(avenger);
+  const color = 'blue';
+ const  arrayOfIdk = ['1',2,true,false,"me",2.0,0.2,0,color];
+const joke= arrayOfIdk.push('winner');
+let korn = '';
+for( row of arrayOfIdk )
+{
+    do    {
+         if( row === "me")
+   {
+         row.push(212);
+         }
+        
+        
+        
+    }while(!row === "me");
+  
+}
+for (row of arrayOfIdk) {
+    do {
+        if (row === "me") {
+            row.push(212); // This line throws an error, as row is a string, not an array
+        }
+    } while (!row === "me");
+}
+  
+  
+  
+  
+ 
+
+ 
